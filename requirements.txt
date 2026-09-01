@@ -1,0 +1,8 @@
+# Exact versions. scikit-learn matters most: model/model.joblib was saved by
+# 1.9.1, and GET /health reports "degraded" under any other version.
+scikit-learn==1.9.1
+numpy==2.5.3
+joblib==1.6.0
+fastapi==0.141.1
+pydantic==2.13.5
+uvicorn==0.53.0
