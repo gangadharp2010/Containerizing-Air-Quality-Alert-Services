@@ -1,0 +1,14 @@
+{
+  "model_version": "1.0.0",
+  "features": [
+    "pm25_today",
+    "wind_speed_ms",
+    "humidity_pct",
+    "temp_c",
+    "traffic_index"
+  ],
+  "threshold": 0.4,
+  "exceed_rate": 0.2055,
+  "test_roc_auc": 0.8034,
+  "sklearn_version": "1.9.1"
+}
